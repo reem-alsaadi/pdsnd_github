@@ -61,7 +61,10 @@ def get_filters():
     return city, month, day
 
 
-"""This function is used to load data from csv file"""
+"""
+    This function is used to load data from csv file
+    it uses the panda library 
+"""
 
 
 def load_data(city, month, day):
