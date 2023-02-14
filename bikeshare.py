@@ -17,6 +17,8 @@ months = ['all', 'january', 'february', 'march', 'april', 'may', 'june',
 days = ['all', "monday", "tuesday", "wednesday",
         "thursday", "friday", "saturday", "sunday"]
 
+"""This function is to get the filters of the data"""
+
 
 def get_filters():
 
@@ -57,6 +59,9 @@ def get_filters():
 
     print('-'*40)
     return city, month, day
+
+
+"""This function is used to load data from csv file"""
 
 
 def load_data(city, month, day):
