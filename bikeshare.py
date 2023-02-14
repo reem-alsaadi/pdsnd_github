@@ -3,7 +3,9 @@ import pandas as pd
 import numpy as np
 
 
-""" Here we set up the file were we will get data from"""
+""" 
+    Here we set up the file were we will get data from
+"""
 
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
