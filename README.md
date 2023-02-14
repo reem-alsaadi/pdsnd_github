@@ -22,3 +22,4 @@ new_york_city.csv
 ### Credits
 
 https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset
+https://www.kaggle.com/code/harshavarshney/bike-sharing-demand-analysis-regression
