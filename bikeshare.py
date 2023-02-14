@@ -61,6 +61,9 @@ def get_filters():
     return city, month, day
 
 
+"""This function is used to load data from csv file"""
+
+
 def load_data(city, month, day):
 
     df = pd.read_csv(CITY_DATA[city])
